@@ -2,8 +2,8 @@
 include "functions.php";
 include "newuser.php";
 $host = "sql100.epizy.com";
-$user = "epiz_32255975";
-$password = "0xL646KHBUh0ra";
+$user = "***";
+$password = "***";
 $db = "epiz_32255975_demo";
 
 $conn = mysqli_connect($host,$user,$password,$db);
